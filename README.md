@@ -1,4 +1,5 @@
      Wiko Rainbow/Micromax A120
+              Inew V3
        Custom Kernel [3.4.106] 
 ========================================
 
